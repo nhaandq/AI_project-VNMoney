@@ -1,3 +1,3 @@
 # VNMoney
 
-https://www.kaggle.com/code/quysnhaan/vn11money/data
+Kaggle dataset: https://www.kaggle.com/datasets/quysnhaan/vnmoney
